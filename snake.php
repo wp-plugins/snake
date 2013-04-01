@@ -8,7 +8,7 @@ Author: Camil Staps
 Author URI: http://camilstaps.nl
 License: GPL2
 
-Copyright 2012  Camil Staps  (email : info@camilstaps.nl)
+Copyright 2013 Camil Staps  (email : info@camilstaps.nl)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as 
